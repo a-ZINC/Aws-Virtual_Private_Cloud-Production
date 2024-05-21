@@ -6,6 +6,7 @@ In this project, I tackled the challenge of building a real-time Private server 
 
 https://github.com/a-ZINC/Aws-Virtual_Private_Cloud-Production/assets/97171270/1def7c27-48f1-4ceb-993c-36e70bcfd6d8
 
+![vpc-private-subnets](https://github.com/a-ZINC/Aws-Virtual_Private_Cloud-Production/assets/97171270/62089a78-24ee-4727-84eb-1ef7e091aedb)
 
 
 ## 1. Foundation: The Virtual Private Cloud (VPC)
